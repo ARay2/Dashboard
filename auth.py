@@ -2,7 +2,7 @@
 """
 Created on Mon Apr  8 14:36:13 2019
 
-@author: @author: ayelita.ray
+@author: ayelita.ray
 """
 from __future__ import print_function
 import os
